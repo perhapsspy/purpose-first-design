@@ -2,7 +2,7 @@
 
 ## 현재 규칙
 
-- 이 저장소는 `purpose-first-design` 독립 스킬의 정본이다. 저장소 이름과 설치 URL은 `purpose-fit-design`을 유지한다.
+- 이 저장소는 `purpose-first-design` 독립 스킬의 정본이다. 저장소 이름과 설치 URL은 `purpose-first-design`이다.
 - 기본 README 언어는 한국어이고, 영어 문서는 `README.en.md`에 둔다.
 - 설치 가능한 스킬은 `skills/purpose-first-design/` 아래에 둔다.
 - `SKILL.md`는 영문 base skill이며 frontmatter metadata를 가진다.
